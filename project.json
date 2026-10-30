@@ -1,0 +1,22 @@
+{
+  "name": "the-outlast-trials-session-toolkit",
+  "displayName": "The Outlast Trials Session Toolkit",
+  "programType": "session-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Group planning",
+    "Equipment notes",
+    "Session records"
+  ],
+  "topics": [
+    "the-outlast-trials-session-toolkit",
+    "the-outlast-trials-tools",
+    "the-outlast-trials-menu",
+    "the-outlast-trials-settings",
+    "the-outlast-trials-configs",
+    "the-outlast-trials-group-planning",
+    "the-outlast-trials-equipment-notes"
+  ]
+}
